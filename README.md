@@ -20,7 +20,7 @@ You will need three sets of signals:
 - Clean signals
 - Noise signals
 - Noisy signals (clean signals with added noise)
-- 
+  
 The signals are sampled at 16 kHz and have a duration of 6 seconds. The naming convention used for the files is as follows:
 
 Clean signals: clean*i* where *i* is a number from 1 to n (e.g., clean1, clean2, clean3, ...).  
